@@ -1,0 +1,10 @@
+C:\Users\SGBr\Documents\Des\Classes importantes\bin\Debug\Classes importantes.exe.config
+C:\Users\SGBr\Documents\Des\Classes importantes\bin\Debug\Classes importantes.exe
+C:\Users\SGBr\Documents\Des\Classes importantes\bin\Debug\Classes importantes.pdb
+C:\Users\SGBr\Documents\Des\Classes importantes\obj\Debug\Classes_importantes.csproj.AssemblyReference.cache
+C:\Users\SGBr\Documents\Des\Classes importantes\obj\Debug\Classes_importantes.Form1.resources
+C:\Users\SGBr\Documents\Des\Classes importantes\obj\Debug\Classes_importantes.Properties.Resources.resources
+C:\Users\SGBr\Documents\Des\Classes importantes\obj\Debug\Classes_importantes.csproj.GenerateResource.cache
+C:\Users\SGBr\Documents\Des\Classes importantes\obj\Debug\Classes_importantes.csproj.CoreCompileInputs.cache
+C:\Users\SGBr\Documents\Des\Classes importantes\obj\Debug\Classes importantes.exe
+C:\Users\SGBr\Documents\Des\Classes importantes\obj\Debug\Classes importantes.pdb
